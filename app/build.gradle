@@ -328,7 +328,7 @@ dependencies {
 
     //noinspection GradleDynamicVersion
     compile deps.psBase
-    compile deps.psGcm
+    compile deps.fcm
     compile deps.psMaps
     compile deps.psLocation
     compile deps.cardview
@@ -429,3 +429,6 @@ android.applicationVariants.all { variant ->
         output.outputFile = new File(output.outputFile.parent, newApkName)
     }
 }
+
+// MUST BE AT THE BOTTOM
+apply plugin: 'com.google.gms.google-services'

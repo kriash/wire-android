@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "723990470614",
+    "firebase_url": "https://wiregcmpushstaging.firebaseio.com",
+    "project_id": "wiregcmpushstaging",
+    "storage_bucket": "wiregcmpushstaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723990470614:android:9a1527f79aa62284",
+        "android_client_info": {
+          "package_name": "com.waz.zclient.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723990470614-ip590gh5ht86p04gessnj87glm5plo84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGCoJGUtDBLJJiQPLxHQRrdkbyI0wlbo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
